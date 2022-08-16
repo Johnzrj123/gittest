@@ -9,5 +9,6 @@ public class Git {
         System.out.println("hello Wang");
         System.out.println("hello Liu");
         System.out.println("PUSH");
+        System.out.println("Github")
     }
 }
